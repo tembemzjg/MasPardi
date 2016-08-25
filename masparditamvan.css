@@ -244,10 +244,10 @@ a, a:hover, a:visited {color: #fff}
 /* ================================================ */
 
 
-	a.btn.plus, a.btn2.plus					{background-image: url(btns/plus.png);			background-color: #d84937;} /* Google Plus */
-	a.btn.twitter, a.btn2.twitter			{background-image: url(btns/twitter.png);		background-color: #3ebef2;} /* Twitter */
-	a.btn.facebook, a.btn2.facebook			{background-image: url(btns/facebook.png);		background-color: #4979bb;} /* Facebook */
-	a.btn.rss, a.btn2.rss					{background-image: url(btns/rss.png);			background-color: #fa8c17;} /* RSS */
+	a.btn.plus, a.btn2.plus					{background-image: url(https://2.bp.blogspot.com/-FrG1b4WGfcY/V77YGpfR-LI/AAAAAAAABrY/OwloryuXHBIGaJUzMncQqYslxmve8DsuACLcB/s1600/plus.png);			background-color: #d84937;} /* Google Plus */
+	a.btn.twitter, a.btn2.twitter			{background-image: url(https://4.bp.blogspot.com/-gVsFZhGOQG0/V77YKHBpXiI/AAAAAAAABsc/dyZpUgFwu44Bb8KoNKAoXdHotTgsTbBzwCLcB/s1600/twitter.png);		background-color: #3ebef2;} /* Twitter */
+	a.btn.facebook, a.btn2.facebook			{background-image: url(https://4.bp.blogspot.com/-b19lQaU2KZQ/V77YFpIW_lI/AAAAAAAABrI/MQJR0HBo7PgqLLFGHjHub3F-bcL0KSEOwCLcB/s1600/facebook.png);		background-color: #4979bb;} /* Facebook */
+	a.btn.rss, a.btn2.rss					{background-image: url(https://4.bp.blogspot.com/-qij2Bk-IUfI/V77YG59MsxI/AAAAAAAABrc/fwCmKDLSng8xAjGcinRzN5Rz1RI8PmRGwCLcB/s1600/rss.png);			background-color: #fa8c17;} /* RSS */
 	a.btn.bebo, a.btn2.bebo					{background-image: url(btns/bebo.png);			background-color: #d53838;} /* Bebo */
 	a.btn.blogger, a.btn2.blogger			{background-image: url(btns/blogger.png);		background-color: #f38438;} /* Blogger */
 	a.btn.dA, a.btn2.dA						{background-image: url(btns/dA.png);			background-color: #52795d;} /* deviantArt */
@@ -264,7 +264,7 @@ a, a:hover, a:visited {color: #fff}
 	a.btn.wordpress, a.btn2.wordpress		{background-image: url(btns/wordpress.png);		background-color: #373636;} /* Wordpress */
 	a.btn.tumblr, a.btn2.tumblr				{background-image: url(btns/tumblr.png);		background-color: #617085;} /* Tumblr */
 	a.btn.stumbleupon, a.btn2.stumbleupon	{background-image: url(btns/stumbleupon.png);	background-color: #f65e46;} /* Stumbleupon */
-	a.btn.youtube, a.btn2.youtube			{background-image: url(btns/youtube.png);		background-color: #e2e2e2;} /* Youtube */
+	a.btn.youtube, a.btn2.youtube			{background-image: url(https://3.bp.blogspot.com/-yPvstuS96QI/V77YKw9YGfI/AAAAAAAABss/JDfu-eXLytgsaV0RJ7SwQUMPwYQ9GTBNQCLcB/s1600/youtube.png);		background-color: #e2e2e2;} /* Youtube */
 
 
 
@@ -277,25 +277,25 @@ a, a:hover, a:visited {color: #fff}
 
 	/* Icons */
 
-	a.btn.share1, a.btn2.share1		{background-image: url(btns/share1.png);} /* Share Icon 1 (Android devices) */
-	a.btn.share2, a.btn2.share2		{background-image: url(btns/share2.png);} /* Share Icon 2 (iOS devices) */
-	a.btn.share3, a.btn2.share3		{background-image: url(btns/share3.png);} /* Share Icon 3 (Cloud) */
-	a.btn.btt, a.btn2.btt			{background-image: url(btns/back_to_top.png);} /* Back to top */
+	a.btn.share1, a.btn2.share1		{background-image: url(https://3.bp.blogspot.com/-C39IfDVOG-8/V77YGy5qiEI/AAAAAAAABrg/I7LVpSufAKsVNKViF3To7bYC4KgXRjvIACLcB/s1600/share1.png);} /* Share Icon 1 (Android devices) */
+	a.btn.share2, a.btn2.share2		{background-image: url(https://1.bp.blogspot.com/-p4Oo1zq-ws0/V77YH-Kis3I/AAAAAAAABrw/POwn69tXO74N_qj7VxtGP-AIlfLFk3x_wCLcB/s1600/share2.png;} /* Share Icon 2 (iOS devices) */
+	a.btn.share3, a.btn2.share3		{background-image: url(https://3.bp.blogspot.com/-Zg3SuYJ6Ltw/V77YIiIDHVI/AAAAAAAABsA/AcJM17MzzPg8Xl5e6dC8Up7C5SasJHpOgCLcB/s1600/share3.png);} /* Share Icon 3 (Cloud) */
+	a.btn.btt, a.btn2.btt			{background-image: url(https://2.bp.blogspot.com/-UkaQkF0vqGg/V77YD_3o1_I/AAAAAAAABqc/yW65lzbhSkg1dTrU82SZFefSCRivNgFvQCLcB/s1600/back_to_top_black.png);} /* Back to top */
 
-	a.btn.share1_black, a.btn2.share1_black		{background-image: url(btns/share1_black.png);} /* Share Icon Black 1 (Android devices) */
-	a.btn.share2_black, a.btn2.share2_black		{background-image: url(btns/share2_black.png);} /* Share Icon Black 2 (iOS devices) */
-	a.btn.share3_black, a.btn2.share3_black		{background-image: url(btns/share3_black.png);} /* Share Icon Black 3 (Cloud) */
-	a.btn.btt_black, a.btn2.btt_black			{background-image: url(btns/back_to_top_black.png);} /* Back to top Black*/
+	a.btn.share1_black, a.btn2.share1_black		{background-image: url(https://1.bp.blogspot.com/-2hNHeCgR1ps/V77YHCDshRI/AAAAAAAABrk/7U4m53s2bkUBvnu4IOJ5xxqpO6a4aRRcACLcB/s1600/share1_black.png);} /* Share Icon Black 1 (Android devices) */
+	a.btn.share2_black, a.btn2.share2_black		{background-image: url(https://3.bp.blogspot.com/-qSz8Z4Vm5iQ/V77YIJu3_XI/AAAAAAAABr0/BmLtvlBpCJAscRl0WJwqKzGaFToIIUehQCLcB/s1600/share2_black.png);} /* Share Icon Black 2 (iOS devices) */
+	a.btn.share3_black, a.btn2.share3_black		{background-image: url(https://3.bp.blogspot.com/-nwHR2egPhVE/V77YI86pR3I/AAAAAAAABsE/wo9R6gEYOa8NKMsCZdtlzN6y-MV9FP3fQCLcB/s1600/share3_black.png);} /* Share Icon Black 3 (Cloud) */
+	a.btn.btt_black, a.btn2.btt_black			{background-image: url(https://2.bp.blogspot.com/-UkaQkF0vqGg/V77YD_3o1_I/AAAAAAAABqc/yW65lzbhSkg1dTrU82SZFefSCRivNgFvQCLcB/s1600/back_to_top_black.png);} /* Back to top Black*/
 
-	a.btn.share1_noshadow, a.btn2.share1_noshadow	{background-image: url(btns/share1_noshadow.png);} /* Share Icon No Shadow 1 (Android devices) */
-	a.btn.share2_noshadow, a.btn2.share2_noshadow	{background-image: url(btns/share2_noshadow.png);} /* Share Icon No Shadow 2 (iOS devices) */
-	a.btn.share3_noshadow, a.btn2.share3_noshadow	{background-image: url(btns/share3_noshadow.png);} /* Share Icon No Shadow 3 (Cloud) */
-	a.btn.btt_noshadow, a.btn2.btt_noshadow			{background-image: url(btns/back_to_top_noshadow.png);} /* Back to top No Shadow*/
+	a.btn.share1_noshadow, a.btn2.share1_noshadow	{background-image: url(https://1.bp.blogspot.com/-C4b5znK53Pg/V77YHi-B8bI/AAAAAAAABrs/QoCHQD4Kq7wNkjiJjcaUr9u-2TfF35wcwCLcB/s1600/share1_noshadow.png);} /* Share Icon No Shadow 1 (Android devices) */
+	a.btn.share2_noshadow, a.btn2.share2_noshadow	{background-image: url(https://2.bp.blogspot.com/-1FsZxxV_I_s/V77YIcit8LI/AAAAAAAABr8/Hk6_zm-tvYYXORrVPpjHYyv9c-pXDLbZQCLcB/s1600/share2_noshadow.png);} /* Share Icon No Shadow 2 (iOS devices) */
+	a.btn.share3_noshadow, a.btn2.share3_noshadow	{background-image: url(https://2.bp.blogspot.com/-KrItLuboKrg/V77YJRALLlI/AAAAAAAABsM/QP3_7hJ7dYEMcWc9s_j3pHFdUlv8hVw4QCLcB/s1600/share3_noshadow.png);} /* Share Icon No Shadow 3 (Cloud) */
+	a.btn.btt_noshadow, a.btn2.btt_noshadow			{background-image: url(https://1.bp.blogspot.com/-MROvPc32X7E/V77YEU5Z_OI/AAAAAAAABqo/MIKVwW1p_rA3dJJeUBqmVEIvIFLOsaHhgCLcB/s1600/back_to_top_noshadow.png);} /* Back to top No Shadow*/
 	
-	a.btn2.share1_black_noshadow	{background-image: url(btns/share1_black_noshadow.png);} /* Share Icon Black No Shadow 1 (Android devices) */
-	a.btn2.share2_black_noshadow	{background-image: url(btns/share2_black_noshadow.png);} /* Share Icon Black No Shadow 2 (iOS devices) */
-	a.btn2.share3_black_noshadow	{background-image: url(btns/share3_black_noshadow.png);} /* Share Icon Black No Shadow 3 (Cloud) */
-	a.btn2.btt_black_noshadow		{background-image: url(btns/back_to_top_black_noshadow.png);} /* Back to top Black No Shadow*/
+	a.btn2.share1_black_noshadow	{background-image: url(https://4.bp.blogspot.com/-tY5c-N6njI0/V77YHZYhn9I/AAAAAAAABro/GgOKNv8zsn0Tct65N4ihJFb0lglszRtdQCLcB/s1600/share1_black_noshadow.png);} /* Share Icon Black No Shadow 1 (Android devices) */
+	a.btn2.share2_black_noshadow	{background-image: url(https://4.bp.blogspot.com/-KCDFOYV_rJA/V77YJKNbwkI/AAAAAAAABsI/880VydPPdy8W1aTYO74atiqoPrs7na0DACLcB/s1600/share3_black_noshadow.png);} /* Share Icon Black No Shadow 2 (iOS devices) */
+	a.btn2.share3_black_noshadow	{background-image: url(https://4.bp.blogspot.com/-KCDFOYV_rJA/V77YJKNbwkI/AAAAAAAABsI/880VydPPdy8W1aTYO74atiqoPrs7na0DACLcB/s1600/share3_black_noshadow.png);} /* Share Icon Black No Shadow 3 (Cloud) */
+	a.btn2.btt_black_noshadow		{background-image: url(https://1.bp.blogspot.com/-MROvPc32X7E/V77YEU5Z_OI/AAAAAAAABqo/MIKVwW1p_rA3dJJeUBqmVEIvIFLOsaHhgCLcB/s1600/back_to_top_noshadow.png);} /* Back to top Black No Shadow*/
 
 
 
