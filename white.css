@@ -1,0 +1,10 @@
+/* WHITE */
+
+body {background: #fff; color: #000;}
+a, a:hover, a:visited {color: #000;}
+
+
+.ac-container label{
+	color: #000;
+	background: rgba(0, 0, 0, 0.1);
+}
